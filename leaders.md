@@ -1,3 +1,3 @@
 ### Leaders
-* [Harihara Gopalan](mailto:harihara.gopalan@owasp.org)
+* [Harihara Gopalan S](mailto:harihara.gopalans@owasp.org)
 * [Nithish P](mailto:nithish.p@owasp.org)
