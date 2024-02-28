@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Sri Ramakrishna Engineering College
 tags: example-tag
 region: Asia
+country: India
 meetup-group:
 
 ---
