@@ -10,7 +10,7 @@ meetup-group:
 ---
 <p align="center">
   <img src="assets/images/srec-logo.png" height = "100" width="200"/>
-  <img src="assets/images/OWASP Circle logo.png" height = "100" width="300" style="margin: 35px; margin-top: 20px; margin-bottom: 20px;"/>
+  <img src="assets/images/OWASP Circle logo.png" height = "200" width="300" style="margin: 35px; margin-top: 20px; margin-bottom: 20px;"/>
 
 </p>
  <b style="text-align:center; text-font:15px ">HAPPY FORMATION DAY</b><BR/>
