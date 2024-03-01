@@ -9,11 +9,10 @@ meetup-group:
 
 ---
 <p align="center">
-  <img src="assets/images/srec-logo.png" height = "150" width="200" style="margin: 35px; margin-top: 40px; margin-bottom: 20px;"/>
+  <img src="assets/images/srec-logo.png" height = "150" width="200" style="margin: 35px; margin-top: 40px; margin-bottom: 50px;"/>
   <img src="assets/images/OWASP Circle logo.png" height = "250" width="300" style="margin: 35px; margin-top: 20px; margin-bottom: 20px;"/>
-
 </p>
- <b style="text-align:center; text-font:15px ">HAPPY FORMATION DAY</b><BR/>
+
 ## Welcome
 ### Greetings Cybersecurity Aficionados!
 
