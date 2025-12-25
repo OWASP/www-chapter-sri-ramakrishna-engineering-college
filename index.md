@@ -16,7 +16,7 @@ meetup-group:
 ## Welcome
 ### Greetings Cybersecurity Aficionados!
 
-Step into the electrifying realm of the Sri Ramakrishna Engineering College (SREC) chapter of the Open Web Application Security Project (OWASP). We're thrilled to welcome you to our cybersecurity adventure, where our mission is to safeguard web applications and champion the cutting-edge frontiers of cybersecurity.
+Step into the electrifying realm of the Sri Ramakrishna Engineering College (SREC) chapter of the Open Worldwide Application Security Project (OWASP). We're thrilled to welcome you to our cybersecurity adventure, where our mission is to safeguard web applications and champion the cutting-edge frontiers of cybersecurity.
 
 As honored members of the OWASP family, SREC's dedication is unwavering. Our goal is to foster a dynamic community of cybersecurity enthusiasts, bound by a shared passion for pushing the boundaries of web application security in today's ever-evolving digital landscape.
 
